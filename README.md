@@ -8,7 +8,7 @@
 ---
 ## *How long do trips usually take?*
 
-![Checkout Time](https://github.com/05Perseus/bikesharing/blob/main/Resources/checkout_time.png)
+![Checkout Time](https://github.com/05Perseus/bikesharing/blob/main/Resources/Checkout_time.png)
 
 1. Ride Time Statistics
     * Nearly all rides are complete within 20 minutes
