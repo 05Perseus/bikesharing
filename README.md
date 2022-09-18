@@ -3,7 +3,7 @@
 ## *The Goal and Methodology*
 ### In this analysis we wanted to determine the types of customers and rides the NYC Bike Share program has to see if the service can be replicated in Des Moines.
 
-#### The full analysis can be found here: ![Full Analysis](https://public.tableau.com/app/profile/matthew.hand2472/viz/Challenge_Book/NYCBikeStory?publish=yes)
+#### The full analysis can be found here: [Full Analysis](https://public.tableau.com/app/profile/matthew.hand2472/viz/Challenge_Book/NYCBikeStory?publish=yes)
 
 ---
 ## *How long do trips usually take?*
