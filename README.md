@@ -17,7 +17,7 @@
 
 ## *How long are trips by gender?*
 
-![Checkout Time by Gender](https://github.com/05Perseus/bikesharing/blob/main/Resources/checkout_time_gender.png)
+![Checkout Time by Gender](https://github.com/05Perseus/bikesharing/blob/main/Resources/Checkout_time_gender.png)
 
 1. Ride Time by Gender Statistics
     * Nearly all rides are complete within 20 minutes
@@ -27,7 +27,7 @@
 
 ## *Trip count by time and day*
 
-![Trips by time and day](https://github.com/05Perseus/bikesharing/blob/main/Resources/trips_by_weekday.png)
+![Trips by time and day](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_weekday.png)
 
 1. Ride Count by time and day Statistics
     * Nearly all rides are during the week (M-F)
@@ -37,7 +37,7 @@
 
 ## *Trip count by time, day, and gender*
 
-![Trips by time, day, and gender](https://github.com/05Perseus/bikesharing/blob/main/Resources/trips_by_weekday_gender.png)
+![Trips by time, day, and gender](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_weekday_gender.png)
 
 1. Ride Count by time, day, and gender Statistics
     * Nearly all rides are during the week (M-F)
@@ -48,7 +48,7 @@
 
 ## *Trip count by day, gender, and customer type*
 
-![Trips by day, gender, and customer type](https://github.com/05Perseus/bikesharing/blob/main/Resources/trips_by_weekday_gender_type.png)
+![Trips by day, gender, and customer type](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_weekday_gender_type.png)
 
 1. Ride Count by Day, Gender, and Customer Type Statistics
     * Nearly all rides are during the week (M-F)
@@ -59,7 +59,7 @@
 
 ## *Trip count by time*
 
-![Trips by time](https://github.com/05Perseus/bikesharing/blob/main/Resources/trips_by_time.png)
+![Trips by time](https://github.com/05Perseus/bikesharing/blob/main/Resources/Trips_by_time.png)
 
 1. Ride Count by Time Statistics
     * Nearly all rides are during the peak rush hour times of day for commuting corporate employees
